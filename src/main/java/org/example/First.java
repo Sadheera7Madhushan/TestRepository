@@ -6,6 +6,8 @@ public class First {
 
     private String name;
 
+    private String email;
+
     // constructor
     public First(String name) {
         this.name = name;

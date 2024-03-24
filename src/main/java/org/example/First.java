@@ -5,8 +5,7 @@ public class First {
 
     private String name;
 
-    public First(int id, String name) {
-        this.id = id;
+    public First(String name) {
         this.name = name;
     }
 }

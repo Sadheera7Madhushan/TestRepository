@@ -5,6 +5,8 @@ public class First {
 
     private String name;
 
+    private String dob;
+
     public First(String name) {
         this.name = name;
     }

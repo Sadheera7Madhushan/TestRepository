@@ -8,6 +8,8 @@ public class First {
 
     private String address;
 
+    private String dob;
+
     public First(String name) {
         this.name = name;
     }
